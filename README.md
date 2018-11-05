@@ -94,6 +94,16 @@ The concepts implemented into our entire full-stack application along with gener
 
 ## License
 
+This repository contains a variety of content; some developed by Cedric Chee, and some from third-parties. The third-party content is distributed under the license provided by those parties.
 
+*I am providing code and resources in this repository to you under an open source license.  Because this is my personal repository, the license you receive to my code and resources is from me and not my employer.*
 
-tags: react, javascript, graphql, nodejs
+The content developed by Cedric Chee is distributed under the following license:
+
+### Code
+
+The code in this repository, including all code samples in the notebooks listed above, is released under the [MIT license](LICENSE). Read more at the [Open Source Initiative](https://opensource.org/licenses/MIT).
+
+### Text
+
+The text content of the book is released under the CC-BY-NC-ND license. Read more at [Creative Commons](https://creativecommons.org/licenses/by-nc-nd/3.0/us/legalcode).
