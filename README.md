@@ -4,7 +4,7 @@
 
 e-mart is an open source full stack online mart complete with real credit checkout. Users can search, sell, add to cart and checkout their favourite grocery items.
 
-This is a full stack JavaScript application built with React.js, GraphQL, Node.js and friends.
+This is a full stack JavaScript application built with [React.js](https://reactjs.org/), [GraphQL](https://graphql.org/), [Node.js](https://nodejs.org) and friends.
 
 ## The Tech Stack
 
@@ -15,13 +15,13 @@ This is a full stack JavaScript application built with React.js, GraphQL, Node.j
 The following is the design of the frontend and backend of the application.
 
 The application has five main models:
-— Users
+- Users
 - Items
 - Orders
 - CartItems
 - OrderItems
 
-all of which are relational and utilizing the power of relational GraphQL Queries.
+all of which are relational and utilizing the power of relational [GraphQL Queries](https://graphql.org/learn/queries/).
 
 The app also includes many server side bits including:
 - JWT authentication
@@ -38,11 +38,11 @@ Developer skills required to build an online mart with React, GraphQL and some o
 
 You should be already familiar with the basics of React - components, state, props, modules and event handlers.
 
-You should be comfortable with both writing and debugging modern JavaScript including arrow functions, classes, promises, async+await and other commonly used parts of ES6.
+You should be comfortable with both writing and debugging modern JavaScript including arrow functions, classes, promises, async+await and other commonly used parts of [ES6](http://exploringjs.com/es6/).
 
 The backend of the app is written in Node.js. Prior Node.js knowledge is nice, but not required.
 
-The app requires knowledge of GraphQL, Prisma, databases, or testing React components.
+The app requires knowledge of GraphQL, [Apollo Client](https://www.apollographql.com/client/), [Prisma](https://www.prisma.io/), databases, or [testing React components](https://airbnb.io/enzyme/docs/guides/jest.html).
 
 ### What is GraphQL?
 
@@ -67,21 +67,21 @@ GraphQL is just a standard and can be implemented in any language or framework.
 The concepts implemented into our entire full-stack application along with general JavaScript best practices:
 
 - React Best Practices
-- Server Side Rendering
-- Styled Components
-- Theming
-- React Render Props
+- [Server Side Rendering](https://nextjs.org/docs/)
+- [Styled Components](https://www.styled-components.com/)
+- [Theming](https://www.styled-components.com/docs/advanced#theming)
+- [React Render Props](https://reactjs.org/docs/render-props.html)
 - Routing
-- GraphQL Schema
-- Queries and Mutations
-- JSON Web Token (JWT)
-- Resolvers
-- Cache Management
-- Loading and Error States
+- [GraphQL Schema](https://graphql.org/learn/schema/)
+- [Queries and Mutations](https://graphql.org/learn/queries/)
+- [JSON Web Token (JWT)](https://jwt.io/)
+- [Resolvers](https://www.prisma.io/tutorials/build-a-graphql-server-with-prisma-ct02/#implement-the-resolvers-for-your-graphql-server-using-prisma-bindings)
+- [Cache Management](https://www.apollographql.com/docs/react/advanced/caching.html)
+- [Loading and Error States](https://www.apollographql.com/docs/react/features/error-handling.html)
 - Sending Email
 - Logic and Flow with Async + Await
 - Authentication and Permissions
-- Charging Credit Cards
+- [Charging Credit Cards](https://stripe.com/docs/quickstart)
 - Hosting and Transforming Images
 - Pagination
 - Forms in React
@@ -91,6 +91,9 @@ The concepts implemented into our entire full-stack application along with gener
 - Mocking Components
 - Mounting vs Shallow Rendering
 - Deployment
+  - Deploying a Prisma server to Heroku
+  - Deploying Yoga server to Heroku
+  - Deploying frontend to Heroku
 
 ## License
 
