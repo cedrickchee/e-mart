@@ -1,7 +1,7 @@
 {
   "name": "e-mart-frontend",
   "version": "1.0.0",
-  "description": "e-mart is a full stack online mart built with React.js, GraphQL, Node.js, Next and Apollo",
+  "description": "e-mart is a full stack online mart built with React.js, GraphQL, Node.js, Next.js and Apollo",
   "main": "index.js",
   "scripts": {
     "dev": "next -p 7777",
