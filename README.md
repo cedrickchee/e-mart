@@ -56,7 +56,7 @@ What?! It's a replacement for (_or addition to_) your REST API and Ajax Calls.
 
 GraphQL requires buy-in from both your client and your server — it then puts the power of requesting **only what you want** into the client and the business logic of finding and filtering that data into **backend resolvers**.
 
-Specifically in this course it enables libraries that make caching, loading, error handling and pagination a breeze.
+It enables libraries that make caching, loading, error handling and pagination a breeze.
 
 Complex Relational Data queries and server-side mutations like signing up or checking-out are a snap with GraphQL.
 
@@ -91,9 +91,10 @@ The concepts implemented into our entire full-stack application along with gener
 - Mocking Components
 - Mounting vs Shallow Rendering
 - Deployment
-  - Deploying a Prisma server to Heroku
-  - Deploying Yoga server to Heroku
-  - Deploying frontend to Heroku
+
+## Documentation
+
+See [the docs directory](docs/).
 
 ## License
 

@@ -9,36 +9,90 @@
 
 ### CSS and Styled Components
 
-- _TBD_
+- Intro to Styled Components
+- Themes and Layout with Styled Components
+- Global Styling
+- Typography with Styled Components
 
 ### Server Side GraphQL
 
-- _TBD_
+- Intro to GraphQL
+- Setup Prisma
+- Getting our GraphQL Yoga server running
+- Writing our first Query and Mutation
+- `Items` creation and Prisma Yoga flow
 
 ### Client Side GraphQL
 
-- _TBD_
+- Setting up Apollo Client with React
+- React and GraphQL
+- Creating `Items` with Mutations
+- Uploading images
+- Updating `Items` with Queries and Mutations
+- Deleting `Items`
+- Displaying single `Items`
+- Pagination
+- Pagination and cache invalidation
 
 ### Accounts, Authentication and Permissions
 
-- _TBD_
+- User signup and permission flow
+- User signup in React
+- Currently logged in user with middleware and Render Props
+- Sign in form and custom error handling
+- Sign out button
+- Backend password reset flow
+- Frontend password reset flow
+- Sending email
+- Data relationships
+- Creating a gated sign in component
+- Permissions management
+- Updating permissions in local state
+- Updating permissions on the server
+- Locking down `DeleteItem` permissions
 
 ### Shopping Cart
 
-- _TBD_
+- Creating cart in React
+- Apollo local state Queries and Mutations
+- Server side "Add To Cart"
+- Displaying cart items and totals
+- Removing cart items
+- Optimistic response and cache updates with Apollo
+- Animating our cart count component
+- Dealing with deleted items in `CartItems`
 
 ### Advanced UI and Code Quality
 
-- _TBD_
+- Cleaning up this Render Prop mess
+- Search dropdown autocomplete
+- Autocomplete with downshift
 
 ### Credit Card Checkout
 
-- _TBD_
+- Credit card processing with Stripe Checkout
+- Charging cards on the server side
+- Saving orders to the database
+- Displaying single orders
+- Orders page
 
 ### Testing
 
-- _TBD_
+- Intro to testing with Jest and Enzyme
+- Unit Testing 101
+- Mocking 101
+- First tests and shallow rendering
+- Snapshot testing
+- Testing and mocking Apollo queries
+- More Apollo query testing
+- Testing pagination
+- Testing mutations
+- More Apollo Client mutation testing
+- Testing our shopping cart
+- Testing order components
 
 ### Deployment
 
-- _TBD_
+- Deploying a Prisma server to Heroku
+- Deploying Yoga server to Heroku
+- Deploying frontend to Heroku
