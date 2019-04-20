@@ -58,7 +58,8 @@
 - Server side "Add To Cart"
 - Displaying cart items and totals
 - Removing cart items
-- Optimistic response and cache updates with Apollo
+- [Optimistic UI](https://www.apollographql.com/docs/react/features/optimistic-ui) — optimistic response and cache updates with Apollo
+  - More about [optimistic UI (a UX pattern)](https://uxplanet.org/optimistic-1000-34d9eefe4c05)
 - Animating our cart count component
 - Dealing with deleted items in `CartItems`
 
